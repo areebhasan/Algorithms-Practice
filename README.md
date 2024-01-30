@@ -24,6 +24,7 @@ In this repository, you will find Java implementations of various classic and mo
 - Reverse Integer (`ReverseInteger.java`)
 - Add Two Numbers (`AddTwoNum.java`)
 - Two Sum (`TwoSum.java`)
+- Palindrome Number (`PlalindromeNumber.java`)
 
 Each algorithm is accompanied by a brief comment at the top of its source file, explaining its purpose and the problem it solves.
 
